@@ -7,7 +7,7 @@ This project entails the deliverables for Udacity Data Science Nanodegree Progra
 1. [Requirements](#requirements)
 2. [Project Description](#description)
 3. [Files](#files)
-4. [Results - Blog Post](#results)
+4. [Results](#results)
 5. [Licensing and Acknowledgements](#licensing)
 
 ### Requirements<a name="requirements"></a>
@@ -39,7 +39,7 @@ The files are organized as follows.
 - README.md
 ```
 
-### Results - Blog Post<a name="results"></a>
+### Results<a name="results"></a>
 
 The overall results of the machine learning approach to build recommendations can definitely be improved. The further details of the result and potential methods to make the system better is presented within the .html and .ipynb files.
 
